@@ -68,18 +68,18 @@ The gladiator is standing in the middle of a stadium all eyes on him with an opp
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  A gladiator is suited up with a sword in the middle of the colusseum; an opponent is in the background next to him on the ground. The focus is on the gladiator, medium shot, all eyes are on the gladiator with the crowd in the stands being slightly blurred. He has to seem confident but he is a bit scared because he just killed; he has to seem fearless. the opponent does not have detailed features. The main colors are beige, gray, tan, white white and black being accent colors. The pallette is very muted. 
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  it made the color palette as I wanted. 
+- **What didn't work:**  the gladiator should have been more suited up, and the opponent farther away. 
 - **What I'll change for next attempt:**  
-
+Make him have a chest plate and no Helen, describe the feelings, make the opponent farther away. 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Have the poste rbe exactly the same but make him have a chest plate but no helmet, the feeling should be tension and fear. the opponent should be farther away and there should be more people. the feeling should be more dramatic; this is a movie poster. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  it fixed how the gladiator looked and made it more dramatic; fixed the opponent 
+- **What didn't work:**  he now looks kind of scary and the angle feels wrong
+- **What I'll change for next attempt:**  I will ask to change the angle and fix the stare that he has
 
 ---
 

@@ -89,20 +89,20 @@ Make him have a chest plate and no Helen, describe the feelings, make the oppone
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  make a new image with all of these prompts: make a new image but combine the two comments i left: A gladiator is suited up with a sword in the middle of the colusseum; an opponent is in the background next to him on the ground. The focus is on the gladiator, medium shot, all eyes are on the gladiator with the crowd in the stands being slightly blurred. He has to seem confident but he is a bit scared because he just killed; he has to seem fearless. the opponent does not have detailed features. The main colors are beige, gray, tan, white white and black being accent colors. The pallette is very muted. Have the poste rbe exactly the same but make him have a chest plate but no helmet, the feeling should be tension and fear. the opponent should be farther away and there should be more people. the feeling should be more dramatic; this is a movie poster. make him have a full body shot, and have him look meaningful but not super scary; no glares. have the chestplate have a design but no muscles or anything. make the shot angle angled upwards from the ground looking at him but not too much so we can still see the background. 
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  nothing changed, I think it became worse. 
+- **What didn't work:**  there are people in the area, it became less detailed. 
 - **What I'll change for next attempt:**  
-
+I ask for a new camera angle. 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  make a new image with all of these prompts: make a new image but combine the two comments i left: A gladiator is suited up with a sword in the middle of the colusseum; an opponent is in the background next to him on the ground. The focus is on the gladiator, medium shot full body, all eyes are on the gladiator with the crowd in the stands being slightly blurred. He seems fearless.  the opponent does not have detailed features. The main colors are beige, gray, tan, white white and black being accent colors. The pallette is very muted and dramamtic.Make him have a chest plate but no helmet, the feeling should be tension and fear.   make the shot angle angled upwards from the ground looking at him but not too much so we can still see the background; make the camera angle interested not just a straight shot
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  it fixed the camera angle and made it seem dramatic but muted. 
+- **What didn't work:**  Feels slightly boring but I think it's good. 
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+I choose the last attempt, as I feel it incorporated all of my requests including the color palette and the camera angle. 
 ---
 
 ## Step 4: Photoshop Modifications

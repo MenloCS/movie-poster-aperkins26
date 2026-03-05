@@ -30,36 +30,36 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  The Gladiator
+- **Why I chose this movie:**  Its my moms favorite movie and I find it very interesting and cool
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Tension, fear
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  the gladiator suited up with a sword
+- **Why this element:** He is the main character of the movie and fighting is the premise 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  Another person that is very detailed; maybe an opponent but the gladiator should be the main guy
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  beige, gray, tan 
+- **Accent color(s):**  white, black
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) very muted
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
+- [X] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+The gladiator is standing in the middle of a stadium all eyes on him with an opponent on the ground. He seems almost scared of what he is done but has to seem confident for the crowd; fearless. Crowd is slightly blurred
 ---
 
 ## Step 2: AI Generation – First Attempts
